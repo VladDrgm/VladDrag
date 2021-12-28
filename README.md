@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Dejan Zivanov, and I am coming from Backend Developer background, at the moment I am doing carrer change toward Software Engineering in the 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/)
+My name is Vlad Dragomir, and at the moment I am studyingcSoftware Engineering at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/)
 <br>
 ## 42cursus Progress 💪🏻
 | No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
