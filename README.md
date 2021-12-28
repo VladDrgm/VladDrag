@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Vlad Dragomir, and at the moment I am studyingcSoftware Engineering at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/)
+My name is Vlad Dragomir, and at the moment I am studying Software Engineering at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/)
 <br>
 ## 42cursus Progress 💪🏻
 | No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
