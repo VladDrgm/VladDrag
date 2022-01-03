@@ -14,7 +14,7 @@ I am also open to work :) . If you wish to connect, you can mail me (please see 
 | 6   | minitalk                                   | 🔒     |   | 17  | CPP Module 04 | 🔒     |   |     |                                |         |
 | 7   | pipex                                      | ✅     |   | 18  | CPP Module 05 | 🔒     |   |     |                                |         |
 | 8   | push_swap                                  | ✅     |   | 19  | CPP Module 06 | 🔒     |   |     |                                |         |
-| 9   | minishell                                  | 🔒     |   | 20  | CPP Module 07 | 🔒     |   |     |                                |         |
+| 9   | minishell                                  | 🛠️     |   | 20  | CPP Module 07 | 🔒     |   |     |                                |         |
 | 10  | Philosphers                                | ✅     |   | 21  | CPP Module 08 | 🔒     |   |     |                                |         |
 
 ## Personal Projects 💪🏻
