@@ -2,7 +2,7 @@
 My name is Vlad Dragomir, and at the moment I am studying Software Engineering at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/) .
 <br>
 I am also open to work :) . If you wish to connect, you can mail me (please see below) or hit me up on Linkedin. Cheers!
-## 42cursus Progress 💪🏻
+## 42cursus Progress (C language :C:)🏻
 | No  | Project                                                | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
 | :-: | :------------------------------------------------------| :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](https://github.com/VladDrag/42_WB_2021_LIBFT). | ✅     |   | 11  | cub3d         | 🔒     |   | 22  | NetPractice                    | 🔒      |
