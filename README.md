@@ -3,19 +3,19 @@ My name is Vlad Dragomir, and at the moment I am studying Software Engineering a
 <br>
 I am also open to work :) . If you wish to connect, you can mail me (please see below) or hit me up on Linkedin. Cheers!
 ## 42cursus Progress (C language)
-| No  | Project                                                | Status |   
-| :-: | :------------------------------------------------------| :----: |
-| 1   | [Libft](https://github.com/VladDrag/42_WB_2021_LIBFT). | ✅     |   
-| 2   | Born2beroot                                            | ✅     |  
-| 3   | [ft_printf](https://github.com/VladDrag/42_WB_2021_FT_PRINTF)| ✅      |
-| 4   | [get_next_line](https://github.com/VladDrag/42_WB_2021_Get_Next_Line)| ✅     |   
-| 5   | FdF                                                    | 🔒     |   
-| 5   | [so_long](https://github.com/VladDrag/42_WB_2021_So_Long)| ✅     |  
-| 6   | minitalk                                               | 🔒     |  
-| 7   | [pipex](https://github.com/VladDrag/42_WB_2021_pipex_bonus)| ✅     |   
-| 8   | [push_swap](https://github.com/VladDrag/42_WB_2021_Push_Swap)| ✅     |  
-| 9   | [minishell](https://github.com/VladDrag/42_WB_2022_Minishell)| 🛠️     | 
-| 10  | Philosphers                                            | ✅     |   
+| No  | Project                                                              | Status  |   Language  |
+| :-: | :--------------------------------------------------------------------| :----:  |-------------|
+| 1   | [Libft](https://github.com/VladDrag/42_WB_2021_LIBFT).               |  ✅     | C-lang 🇨   |
+| 2   | Born2beroot                                                          |  ✅     | C-lang 🇨   | 
+| 3   | [ft_printf](https://github.com/VladDrag/42_WB_2021_FT_PRINTF)        |  ✅     | C-lang 🇨   |
+| 4   | [get_next_line](https://github.com/VladDrag/42_WB_2021_Get_Next_Line)|  ✅     | C-lang 🇨   |
+| 5   | FdF                                                                  |  🔒     | C-lang 🇨   |
+| 5   | [so_long](https://github.com/VladDrag/42_WB_2021_So_Long)            |  ✅     | C-lang 🇨   |  
+| 6   | minitalk                                                             |  🔒     | C-lang 🇨   |  
+| 7   | [pipex](https://github.com/VladDrag/42_WB_2021_pipex_bonus)          |  ✅     | C-lang 🇨   |   
+| 8   | [push_swap](https://github.com/VladDrag/42_WB_2021_Push_Swap)        |  ✅     | C-lang 🇨   |  
+| 9   | [minishell](https://github.com/VladDrag/42_WB_2022_Minishell)        |  🛠️     | C-lang 🇨   | 
+| 10  | Philosphers                                                          |  ✅     | C-lang 🇨   |   
 
 ## Personal Projects 💪🏻
 | No  | Project                                                                                                | Status |     Language    |
