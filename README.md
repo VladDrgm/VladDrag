@@ -5,7 +5,7 @@ I am also open to work :) . If you wish to connect, you can mail me (please see 
 ## 42cursus Progress (C language)
 | No  | Project                                                              | Status  |   Language  |
 | :-: | :--------------------------------------------------------------------| :----:  |-------------|
-| 1   | [Libft](https://github.com/VladDrag/42_WB_2021_LIBFT).               |  ✅     | C-lang 🇨   |
+| 1   | [Libft](https://github.com/VladDrag/42_WB_2021_LIBFT)                |  ✅     | C-lang 🇨   |
 | 2   | Born2beroot                                                          |  ✅     | C-lang 🇨   | 
 | 3   | [ft_printf](https://github.com/VladDrag/42_WB_2021_FT_PRINTF)        |  ✅     | C-lang 🇨   |
 | 4   | [get_next_line](https://github.com/VladDrag/42_WB_2021_Get_Next_Line)|  ✅     | C-lang 🇨   |
