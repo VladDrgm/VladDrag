@@ -4,7 +4,7 @@ My name is Vlad Dragomir, and at the moment I am studying Software Engineering a
 I am also open to work :) . If you wish to connect, you can mail me (please see below) or hit me up on Linkedin. Cheers!
 ## 42cursus Progress (C language)
 | No  | Project                                                | Status |   
-| :-: | :------------------------------------------------------| :----: | - 
+| :-: | :------------------------------------------------------| :----: |
 | 1   | [Libft](https://github.com/VladDrag/42_WB_2021_LIBFT). | ✅     |   
 | 2   | Born2beroot                                            | ✅     |  
 | 3   | [ft_printf](https://github.com/VladDrag/42_WB_2021_FT_PRINTF)| ✅      |
