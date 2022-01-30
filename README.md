@@ -22,6 +22,7 @@ I am also open to work :) . If you wish to connect, you can mail me (please see 
 | :-: | :----------------------------------------------------------------------------------------------------- | :----: | :-------------: |
 | 1   | [Compound interest calculator](https://github.com/VladDrag/compound_interest_calculator)               | ✅     | Rust      :crab:|
 | 2   | [42_Relocation_support_apps](https://github.com/VladDrag/42_Relocation_Support_Apps)                   | 🛠️     | Rust      :crab:|
+| 3   | [Rust practice exercises](https://github.com/VladDrag/Rust_Practice)                                   | 🛠️     | Rust      :crab:|
 
 
 ## 📱 Connect With Me!
