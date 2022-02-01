@@ -27,5 +27,5 @@ I am also open to work :) . If you wish to connect, you can mail me (please see 
 
 ## 📱 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vdragomir/)
-[![Email](https://img.shields.io/badge/Email-%20-d95040?style=flat-square&logo=mail&logoColor=white)](mailto:ioanvlad90@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%20-d95040?style=flat-square&logo=mail&logoColor=white)](mailto:vdragomir@protonmail.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&log=github&logoColor=white)](https://github.com/VladDrag)
