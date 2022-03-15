@@ -9,14 +9,12 @@ I am also open to work :) . If you wish to connect, you can mail me (please see 
 | 2   | Born2beroot                                                          |  ✅     | C-lang 🇨   | 
 | 3   | [ft_printf](https://github.com/VladDrag/42_WB_2021_FT_PRINTF)        |  ✅     | C-lang 🇨   |
 | 4   | [get_next_line](https://github.com/VladDrag/42_WB_2021_Get_Next_Line)|  ✅     | C-lang 🇨   |
-| 5   | FdF                                                                  |  🔒     | C-lang 🇨   |
 | 5   | [so_long](https://github.com/VladDrag/42_WB_2021_So_Long)            |  ✅     | C-lang 🇨   |  
-| 6   | minitalk                                                             |  🔒     | C-lang 🇨   |  
-| 7   | [pipex](https://github.com/VladDrag/42_WB_2021_pipex_bonus)          |  ✅     | C-lang 🇨   |   
-| 8   | [push_swap](https://github.com/VladDrag/42_WB_2021_Push_Swap)        |  ✅     | C-lang 🇨   |  
-| 9   | [minishell](https://github.com/VladDrag/42_WB_2022_Minishell)        |  ✅     | C-lang 🇨   | 
-| 10  | Philosphers                                                          |  ✅     | C-lang 🇨   |   
-| 11  | [C++ 00](https://github.com/VladDrag/CPP-Module-0)                   |  ✅     | C++  🇨🅿️🅿️󠁐  |
+| 6   | [pipex](https://github.com/VladDrag/42_WB_2021_pipex_bonus)          |  ✅     | C-lang 🇨   |   
+| 7   | [push_swap](https://github.com/VladDrag/42_WB_2021_Push_Swap)        |  ✅     | C-lang 🇨   |  
+| 8   | [minishell](https://github.com/VladDrag/42_WB_2022_Minishell)        |  ✅     | C-lang 🇨   | 
+| 9   | Philosphers                                                          |  ✅     | C-lang 🇨   |   
+| 10  | [C++ 00](https://github.com/VladDrag/CPP-Module-0)                   |  ✅     | C++  🇨🅿️🅿️󠁐  |
 | 11  | [C++ 01](https://github.com/VladDrag/CPP-Module-0)                   |  🛠️     | C++  🇨🅿️🅿️󠁐  |
 
 ## Personal Projects 💪🏻
