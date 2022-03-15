@@ -14,9 +14,10 @@ I am also open to work :) . If you wish to connect, you can mail me (please see 
 | 6   | minitalk                                                             |  🔒     | C-lang 🇨   |  
 | 7   | [pipex](https://github.com/VladDrag/42_WB_2021_pipex_bonus)          |  ✅     | C-lang 🇨   |   
 | 8   | [push_swap](https://github.com/VladDrag/42_WB_2021_Push_Swap)        |  ✅     | C-lang 🇨   |  
-| 9   | [minishell](https://github.com/VladDrag/42_WB_2022_Minishell)        |  🛠️     | C-lang 🇨   | 
+| 9   | [minishell](https://github.com/VladDrag/42_WB_2022_Minishell)        |  ✅     | C-lang 🇨   | 
 | 10  | Philosphers                                                          |  ✅     | C-lang 🇨   |   
 | 11  | [C++ 00](https://github.com/VladDrag/CPP-Module-0)                   |  ✅     | C++  🇨🅿️🅿️󠁐  |
+| 11  | [C++ 01](https://github.com/VladDrag/CPP-Module-0)                   |  🛠️     | C++  🇨🅿️🅿️󠁐  |
 
 ## Personal Projects 💪🏻
 | No  | Project                                                                                                | Status |     Language    |
