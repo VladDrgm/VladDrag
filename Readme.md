@@ -25,7 +25,8 @@ I am also open to work :) . If you wish to connect, you can mail me (please see 
 | 3   | [Rust practice exercises](https://github.com/VladDrag/Rust_Practice)                                   | 🛠️     | Rust      :crab:|
 | 4   | [Leap Year Calculator](https://github.com/VladDrag/Leap_Year)                                          | ✅     | CPlusPlus    C++|
 | 5   | [Comic Books WebApp](https://github.com/VladDrag/Treehouse-Comic_book_gallery)                         | ✅     | C Sharp       C#󠁐|
-| 5   | [GrandPa Club](https://github.com/VladDrag/GrandPaClub42)                                              | 🛠️     | C Sharp       C#󠁐|
+| 6   | [GrandPa Club](https://github.com/VladDrag/GrandPaClub42)                                              | ✅     | C Sharp       C#󠁐|
+| 7   | [C# Exercises](https://github.com/VladDrag/C-Sharp_exercises)                                          | 🛠️     | C Sharp       C#󠁐|
  
 
 ## 📱 Connect With Me!
