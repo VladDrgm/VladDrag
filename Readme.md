@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Vlad Dragomir, and at the moment I am studying to become a developer .
 <br>
-I am also open to work :) . If you wish to connect, you can mail me (please see below) or hit me up on Linkedin. Cheers!
+I am also open to work :) . If you wish to connect, you can mail me (please see below link) or hit me up on Linkedin. Cheers!
 ## 42cursus Progress
 | No  | Project                                                              | Status  |   Language  |
 | :-: | :--------------------------------------------------------------------| :----:  |-------------|
