@@ -22,7 +22,7 @@ I am also open to work :) . If you wish to connect, you can mail me (please see 
 | No  | Project                                                                                                | Status |     Language    |
 | :-: | :----------------------------------------------------------------------------------------------------- | :----: | :-------------: |
 | 1   | [Compound interest calculator](https://github.com/VladDrag/compound_interest_calculator)               | ✅     | Rust      :crab:|
-| 2   | [Rust practice exercises](https://github.com/VladDrag/Rust_Practice)                                   | 🛠️     | Rust      :crab:|
+| 2   | [Rust practice exercises](https://github.com/VladDrag/Rust_Practice)                                   | ✅     | Rust      :crab:|
 | 3   | [Leap Year Calculator](https://github.com/VladDrag/Leap_Year)                                          | ✅     | CPlusPlus    C++|
 | 4   | [Comic Books WebApp](https://github.com/VladDrag/Treehouse-Comic_book_gallery)                         | ✅     | C Sharp       C#󠁐|
 | 5   | [GrandPa Club](https://github.com/VladDrag/GrandPaClub42)                                              | ✅     | C Sharp       C#󠁐|
