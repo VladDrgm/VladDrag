@@ -27,7 +27,7 @@ I am also open to work :) . If you wish to connect, you can mail me (please see 
 | 4   | [Comic Books WebApp](https://github.com/VladDrag/Treehouse-Comic_book_gallery)                         | ✅     | C Sharp       C#󠁐|
 | 5   | [GrandPa Club](https://github.com/VladDrag/GrandPaClub42)                                              | ✅     | C Sharp       C#󠁐|
 | 6   | [C# Exercises](https://github.com/VladDrag/C-Sharp_exercises)                                          | 🛠️     | C Sharp       C#󠁐|
-| 7   | [Fabryka](https://github.com/VladDrag/Fabryca)                                                         | 🛠️     | C Sharp       C#󠁐|
+| 7   | [Fabryka](https://github.com/VladDrag/Fabryca)                                                         | 🛠️     | C#󠁐 & Javascript |
  
 
 ## 📱 Connect With Me!
