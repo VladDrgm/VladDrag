@@ -16,7 +16,7 @@ I am also open to work :) . If you wish to connect, you can mail me (please see 
 | 9   | Philosphers                                                          |  ✅     | C           |   
 | 10  | [C++ 00](https://github.com/VladDrag/CPP-Module-0)                   |  ✅     |CPlusPlus C++|
 | 11  | [C++ 01](https://github.com/VladDrag/CPP-Module-0)                   |  ✅     |CPlusPlus C++|
-| 12  | C++ 02                                                               |  🛠️     |CPlusPlus C++|
+| 12  | C++ 02                                                               |  ✅     |CPlusPlus C++|
 
 ## Personal Projects 💪🏻
 | No  | Project                                                                                                | Status |     Language    |
