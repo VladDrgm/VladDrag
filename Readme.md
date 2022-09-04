@@ -1,7 +1,7 @@
 ### Hi there 👋
-My name is Vlad Dragomir, and at the moment I am studying to become a developer .
+My name is Vlad Dragomir, and at the moment I am a webdeveloper.
 <br>
-I am also open to work :) . If you wish to connect, you can mail me (please see below link) or hit me up on Linkedin. Cheers!
+I am also continuing my studies in parralel with my work, for 42 Wolfsburg. Please see my 42 Wolfsburg projects below, alongside my own projects. Cheers!
 ## 42cursus Progress
 | No  | Project                                                              | Status  |   Language  |
 | :-: | :--------------------------------------------------------------------| :----:  |-------------|
