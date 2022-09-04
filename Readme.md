@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Vlad Dragomir, and at the moment I am a webdeveloper.
+My name is Vlad Dragomir. I am a web developer.
 <br>
 I am also continuing my studies in parralel with my work, for 42 Wolfsburg. Please see my 42 Wolfsburg projects below, alongside my own projects. Cheers!
 ## 42cursus Progress
