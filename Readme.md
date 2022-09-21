@@ -29,7 +29,7 @@ I am also continuing my studies in parralel with my work, for 42 Wolfsburg. Plea
 | 5   | [GrandPa Club](https://github.com/VladDrag/GrandPaClub42)                                              | ✅     | C Sharp       C#󠁐|
 | 6   | [C# Exercises](https://github.com/VladDrag/C-Sharp_exercises)                                          | 🛠️     | C Sharp       C#󠁐|
 | 7   | [Fabryca](https://github.com/VladDrag/Fabryca)                                                         | 🛠️     | C#󠁐 & Javascript |
-| 7   | [PuppiesAPI](https://github.com/VladDrag/PuppiesAPI)                                                   | ✅     | Typescript    Ts|
+| 8   | [PuppiesAPI](https://github.com/VladDrag/PuppiesAPI)                                                   | ✅     | Typescript    Ts|
  
 
 ## 📱 Connect With Me!
