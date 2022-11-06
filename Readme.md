@@ -31,6 +31,7 @@ I am also continuing my studies in parralel with my work, for 42 Wolfsburg. Plea
 | 7   | [Fabryca](https://github.com/VladDrag/Fabryca)                                                         | 🛠️     | C#󠁐 & Javascript |
 | 8   | [PuppiesAPI](https://github.com/VladDrag/PuppiesAPI)                                                   | ✅     | Typescript    Ts|
 | 9   | [RankingAppAPI]                                                                                        | ✅     | C Sharp       C#|
+| 10   | [InsurExe]                                                                                            | ✅     | C Sharp       C#|
  
 
 ## 📱 Connect With Me!
