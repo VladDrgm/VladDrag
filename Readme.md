@@ -32,7 +32,7 @@ I am also continuing my studies in parralel with my work, for 42 Wolfsburg. Plea
 | 8   | [PuppiesAPI](https://github.com/VladDrag/PuppiesAPI)                                                   | ✅     | Typescript    Ts|
 | 9   | [RankingAppAPI](https://github.com/VladDrag/RankingAppApi)                                             | ✅     | C Sharp       C#|
 | 10  | [InsurExe](https://github.com/VladDrag/InsurExe)                                                       | ✅     | .NET          C#|
-| 11  | [CloudCustomers](https://github.com/VladDrag/InsurExe](https://github.com/VladDrag/CloudCustomers)     | ✅     | .NET          C#|
+| 11  | [CloudUsers](https://github.com/VladDrag/CloudCustomers)                                               | ✅     | .NET          C#|
  
 
 ## 📱 Connect With Me!
