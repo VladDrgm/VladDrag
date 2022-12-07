@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Vlad Dragomir. I am a web developer.
+My name is Vlad Dragomir. I am a .NET / Azure software developer.
 <br>
 
 I am also continuing my studies in parralel with my work, for 42 Wolfsburg.
