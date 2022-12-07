@@ -9,7 +9,6 @@ I am also continuing my studies in parralel with my work, for 42 Wolfsburg.
 
 <h3 align="left">Languages and Tools:</h3>
 
-<code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/large/rust-logo.png"></code>
 <code><img height="30" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.png"></code>
 <code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg"></code>
 <code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg"></code>
