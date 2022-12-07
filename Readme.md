@@ -9,7 +9,6 @@ I am also continuing my studies in parralel with my work, for 42 Wolfsburg.
 
 
 <p align="left">
-<h3 align="left">📫 Connect with me:</h3>
 <a href="https://www.linkedin.com/in/kostas-chaniotakis/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kostas chaniotakis" height="30" width="40" /></a>
 </p>
 
