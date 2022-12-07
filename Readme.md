@@ -1,39 +1,34 @@
 ### Hi there 👋
 My name is Vlad Dragomir. I am a web developer.
 <br>
-I am also continuing my studies in parralel with my work, for 42 Wolfsburg. Please see my 42 Wolfsburg projects below, alongside my own projects. Cheers!
-## 42cursus Progress
-| No  | Project                                                              | Status  |   Language  |
-| :-: | :--------------------------------------------------------------------| :----:  |-------------|
-| 1   | [Libft](https://github.com/VladDrag/42_WB_2021_LIBFT)                |  ✅     | C           |
-| 2   | Born2beroot                                                          |  ✅     | C           |
-| 3   | [ft_printf](https://github.com/VladDrag/42_WB_2021_FT_PRINTF)        |  ✅     | C           |
-| 4   | [get_next_line](https://github.com/VladDrag/42_WB_2021_Get_Next_Line)|  ✅     | C           |
-| 5   | [so_long](https://github.com/VladDrag/42_WB_2021_So_Long)            |  ✅     | C           | 
-| 6   | [pipex](https://github.com/VladDrag/42_WB_2021_pipex_bonus)          |  ✅     | C           |   
-| 7   | [push_swap](https://github.com/VladDrag/42_WB_2021_Push_Swap)        |  ✅     | C           | 
-| 8   | [minishell](https://github.com/VladDrag/42_WB_2022_Minishell)        |  ✅     | C           |
-| 9   | Philosphers                                                          |  ✅     | C           |   
-| 10  | [C++ 00](https://github.com/VladDrag/CPP-Module-0)                   |  ✅     |CPlusPlus C++|
-| 11  | [C++ 01](https://github.com/VladDrag/CPP-Module-0)                   |  ✅     |CPlusPlus C++|
-| 12  | C++ 02                                                               |  ✅     |CPlusPlus C++|
-| 12  | [C++ 03](https://github.com/VladDrag/CPP-Module-0)                   |  ✅     |CPlusPlus C++|
 
-## Personal Projects 💪🏻
-| No  | Project                                                                                                | Status |     Language    |
-| :-: | :----------------------------------------------------------------------------------------------------- | :----: | :-------------: |
-| 1   | [Compound interest calculator](https://github.com/VladDrag/compound_interest_calculator)               | ✅     | Rust      :crab:|
-| 2   | [Rust practice exercises](https://github.com/VladDrag/Rust_Practice)                                   | ✅     | Rust      :crab:|
-| 3   | [Leap Year Calculator](https://github.com/VladDrag/Leap_Year)                                          | ✅     | CPlusPlus    C++|
-| 4   | [Comic Books WebApp](https://github.com/VladDrag/Treehouse-Comic_book_gallery)                         | ✅     | C Sharp       C#󠁐|
-| 5   | [GrandPa Club](https://github.com/VladDrag/GrandPaClub42)                                              | ✅     | C Sharp       C#󠁐|
-| 6   | [C# Exercises](https://github.com/VladDrag/C-Sharp_exercises)                                          | 🛠️     | C Sharp       C#󠁐|
-| 7   | [Fabryca](https://github.com/VladDrag/Fabryca)                                                         | 🛠️     | C#󠁐 & Javascript |
-| 8   | [PuppiesAPI](https://github.com/VladDrag/PuppiesAPI)                                                   | ✅     | Typescript    Ts|
-| 9   | [RankingAppAPI](https://github.com/VladDrag/RankingAppApi)                                             | ✅     | C Sharp       C#|
-| 10  | [InsurExe](https://github.com/VladDrag/InsurExe)                                                       | ✅     | .NET          C#|
-| 11  | [CloudUsers](https://github.com/VladDrag/CloudCustomers)                                               | ✅     | .NET          C#|
- 
+I am also continuing my studies in parralel with my work, for 42 Wolfsburg.
+
+
+- 🌱 I’m currently learning about **microservices**
+
+
+<p align="left">
+<h3 align="left">📫 Connect with me:</h3>
+<a href="https://www.linkedin.com/in/kostas-chaniotakis/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kostas chaniotakis" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/large/rust-logo.png"></code>
+<code><img height="30" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.png"></code>
+<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg"></code>
+<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg"></code>
+<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg"></code>
+<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg"></code>
+<br>
+<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg"></code>
+<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg"></code>
+<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg"></code>
+<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg"></code>
+<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 ## 📱 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vdragomir/)
