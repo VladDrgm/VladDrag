@@ -12,14 +12,14 @@ I am also continuing my studies in parralel with my work, for [42 Wolfsburg](htt
 <code><img height="30" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.png"></code>
 <code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg"></code>
 <code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg"></code>
-<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg"></code>
-<code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg"></code>
 <br>
 <code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg"></code>
 <code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg"></code>
 <code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg"></code>
 <code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 
 ## 📱 Connect With Me!
