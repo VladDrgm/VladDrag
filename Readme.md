@@ -5,7 +5,7 @@ My name is Vlad Dragomir. I am a .NET / Azure software developer.
 I am also continuing my studies in parralel with my work, for [42 Wolfsburg](https://42wolfsburg.de/).
 
 
-- 🌱 I’m currently learning about **platform building** and **integrations** using Azure resources.
+- 🌱 I’m currently learning about **CI/CD** and **integrations** using Azure resources.
 
 <h3 align="left">Languages and Tools:</h3>
 
