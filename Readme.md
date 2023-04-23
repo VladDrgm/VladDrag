@@ -4,9 +4,6 @@ My name is Vlad Dragomir. I am a .NET / Azure software developer.
 
 I am also continuing my studies in parralel with my work, for [42 Wolfsburg](https://42wolfsburg.de/).
 
-
-- 🌱 I’m currently learning about **Azure Pipelines** and **integrations**.
-
 <h3 align="left">Languages and Tools:</h3>
 
 <code><img height="30" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.png"></code>
