@@ -6,6 +6,7 @@ I am also continuing my studies in parralel with my work, for [42 Wolfsburg](htt
 
 <h3 align="left">Languages and Tools:</h3>
 
+<code><img height="30" src="https://www.rust-lang.org/logos/rust-logo-512x512.png"></code>
 <code><img height="30" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp.png"></code>
 <code><img height="30" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png"></code>
